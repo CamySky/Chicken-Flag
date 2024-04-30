@@ -1,0 +1,20 @@
+td{
+    width: 100px; 
+    height: 100px;
+    background-color: #ff607a;
+}
+
+body{
+    font-family: "Chakra Petch", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.btnTable{
+    border: none;
+    background-color: rgba(255, 0, 0, 0.0);;
+    width: 100px; 
+    height: 100px;
+    cursor:pointer;
+}
+
